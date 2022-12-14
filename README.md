@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/58628602?v=4" alt="MafuSaku GitHub Profile Picture" width="200"/>
 </div>
 
-<p align="center"><sup><sub>Image from <a href="https://www.twitter.com/@uzuvae">@uzuvae</a></sub></sup></p>
+<p align="center"><sup><sub>Image from <a href="https://www.twitter.com/@Ochacolle">@ochacolle</a></sub></sup></p>
 
 <div id="badges" align="center">
   <!--
