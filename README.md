@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@mafusaku?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitter.com/@mafusaku">
+  <a href="https://www.twitter.com/intent/follow?screen_name=mafusaku">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.roblox.com/users/189051237/profile">
@@ -35,10 +35,10 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
 - I self-taught myself different programming languages, applications, video editing, photography, videography and more.
 - I'm a music artist and song writer.
 
-### <img src="https://cdn3.emoji.gg/emojis/3829-catemojiblack.png" alt="Cat Emoji in Black" width="25" height="25"> Contact Information
-Discord - Scarlettt#0064
+### <img src="https://i.ibb.co/z7ZD055/Roblox-Heart-Icons.png" alt="Heart Icons" width="30" height="25"> Contact Information
+[Discord](https://discord.com/users/346621552382443539)
 
-[Guilded](https://guilded.gg/pastel)
+[Guilded](https://guilded.gg/u/pastel)
 
 ## <img src="https://cdn3.emoji.gg/emojis/1119-globe.png" alt="Globe Icon" width="25" height="25"> Languages and Tools
 <div>
@@ -58,9 +58,10 @@ Discord - Scarlettt#0064
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/L/luau-programming-language-logo-4E5D70055F-seeklogo.com.png" title="Luau" alt="Luau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C# - CSharp" width="40" height="40"/>&nbsp;
-  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++ - CPlusPlus" width="40" height="40"/>&nbsp;
+  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   -->  
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
