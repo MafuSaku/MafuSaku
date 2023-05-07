@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/58628602?v=4" alt="MafuSaku GitHub Profile Picture" width="200"/>
 </div>
 
-<p align="center"><sup><sub>Image from <a href="https://www.twitter.com/@imnotshiira">@imnotshiira</a></sub></sup></p>
+<p align="center"><sup><sub>Profile commissioned from <a href="https://www.twitter.com/desti_x_moon">@Desti_x_Moon</a></sub></sup></p>
 
 <div id="badges" align="center">
   <!--
@@ -38,15 +38,17 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
 ### <img src="https://i.ibb.co/z7ZD055/Roblox-Heart-Icons.png" alt="Heart Icons" width="30" height="25"> Contact Information
 [Discord](https://discord.com/users/346621552382443539)
 
+[Twitter](https://twitter.com/@mafusaku)
+
 [Guilded](https://guilded.gg/u/pastel)
 
 ## <img src="https://cdn3.emoji.gg/emojis/1119-globe.png" alt="Globe Icon" width="25" height="25"> Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
+  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <!--
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Roblox_Logo.svg/768px-Roblox_Logo.svg.png" title="Roblox" alt="Roblox" width="40" height="40"/>&nbsp;
   -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/768px-Roblox_Studio_logo_2021_present.svg.png?20210904141557" title="RobloxStudio" alt="RobloxStudio" width="40" height="40"/>&nbsp;
@@ -55,13 +57,15 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
   -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/L/luau-programming-language-logo-4E5D70055F-seeklogo.com.png" title="Luau" alt="Luau" width="40" height="40"/>&nbsp;
+  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C# - CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++ - CPlusPlus" width="40" height="40"/>&nbsp;
-  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   -->  
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
