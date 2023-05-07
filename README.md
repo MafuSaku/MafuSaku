@@ -35,12 +35,16 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
 - I self-taught myself different programming languages, applications, video editing, photography, videography and more.
 - I'm a music artist and song writer.
 
-### <img src="https://i.ibb.co/z7ZD055/Roblox-Heart-Icons.png" alt="Heart Icons" width="30" height="25"> Contact Information
-[Discord](https://discord.com/users/346621552382443539)
-
-[Twitter](https://twitter.com/@mafusaku)
-
-[Guilded](https://guilded.gg/u/pastel)
+## <img src="https://cdn3.emoji.gg/emojis/2417-1st-place.gif" alt="trophy gif" width="25" height="25"> Personal Achievements
+| Achievement | Where | Year |
+| :--- | :--- | :---: |
+| Reseacher| <a href="https://www.twitter.com/Roblox_RTC">@Roblox_RTC</a> | **2022** |
+| Community Translator | <a href="https://corporate.roblox.com">Roblox</a> | **2022** |
+| Translator for <a href="https://www.roblox.com/games/8267733039">**Specter II**</a> by Periodic Games | <a href="https://corporate.roblox.com">Roblox</a> | **2022** |
+| Play Tester | <a href="https://www.dubit.io">Dubit</a> | **2022** |
+| Advisor and <a href="https://www.discord.com/invite/metaverse">**Discord**</a> Moderator | <a href="https://www.mgl.co">Metaverse Gaming League (MGL)</a> | **2021** |
+| Translator for <a href="https://www.roblox.com/games/1547610457">**Free Draw**</a> by Reselim | <a href="https://corporate.roblox.com">Roblox</a> | **2021** |
+| Beta Program Member | <a href="https://corporate.roblox.com">Roblox</a> | **2021** |
 
 ## <img src="https://cdn3.emoji.gg/emojis/1119-globe.png" alt="Globe Icon" width="25" height="25"> Languages and Tools
 <div>
@@ -75,6 +79,13 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mafusaku&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=FFFFFF&stroke=F8C8DC&ring=F8C8DC&fire=F8C8DC&currStreakNum=F8C8DC&sideNums=F8C8DC&currStreakLabel=F8C8DC&sideLabels=F8C8DC&dates=F8C8DC)](https://msaku.pages.dev)
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafusaku&show_icons=true&layout=compact&theme=transparent&title_color=F8C8DC&text_color=F8C8DC&border_radius=25&locale)](https://msaku.pages.dev)
+
+## <img src="https://i.ibb.co/z7ZD055/Roblox-Heart-Icons.png" alt="Heart Icons" width="30" height="25"> Contact Information
+[Discord](https://discord.com/users/346621552382443539)
+
+[Twitter](https://twitter.com/@mafusaku)
+
+[Guilded](https://guilded.gg/u/pastel)
 
 <!--
 ## <img src="https://cdn3.emoji.gg/emojis/1516-foxwave.png" alt="Fox Wave Image" width="25" height="25"> Blog Posts
