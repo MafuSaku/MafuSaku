@@ -38,10 +38,12 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
 ## <img src="https://cdn3.emoji.gg/emojis/2417-1st-place.gif" alt="trophy gif" width="25" height="25"> Personal Achievements
 | Achievement | Where | Year |
 | :--- | :--- | :---: |
-| Reseacher| <a href="https://www.twitter.com/Roblox_RTC">@Roblox_RTC</a> | **2022** |
+| Reseacher| <a href="https://www.twitter.com/Roblox_RTC">@Roblox_RTC</a> | **2023** |
+| Silver Medal in a C++ Competition (Countrywide) | [CONFIDENTIAL] | **2023** |
 | Community Translator | <a href="https://corporate.roblox.com">Roblox</a> | **2022** |
 | Translator for <a href="https://www.roblox.com/games/8267733039">**Specter II**</a> by Periodic Games | <a href="https://corporate.roblox.com">Roblox</a> | **2022** |
 | Play Tester | <a href="https://www.dubit.io">Dubit</a> | **2022** |
+| Silver Medal in a Typing Competition | [CONFIDENTIAL] | **2021** |
 | Advisor and <a href="https://www.discord.com/invite/metaverse">**Discord**</a> Moderator | <a href="https://www.mgl.co">Metaverse Gaming League (MGL)</a> | **2021** |
 | Translator for <a href="https://www.roblox.com/games/1547610457">**Free Draw**</a> by Reselim | <a href="https://corporate.roblox.com">Roblox</a> | **2021** |
 | Beta Program Member | <a href="https://corporate.roblox.com">Roblox</a> | **2021** |
