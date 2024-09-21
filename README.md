@@ -29,29 +29,30 @@
 ## <img src="https://cdn3.emoji.gg/emojis/2493-note-pen.gif" alt="note gif" width="25" height="25"> About Me
 I am a Programmer, Game Developer and Web Developer from Thailand.
 - I'm a student in college.
-- I'm learning in the IT field, mainly game development and web development.
+- I'm learning in the IT field, Which involves game development, web development, digital business, and ui/ux design.
 - I create experiences on Roblox.
 - I program stuff that sometimes work sometimes doesn't.
 - I self-taught myself different programming languages, applications, video editing, photography, videography and more.
 - I'm a music artist and song writer.
-- Contributed to over 260+ million users on [Roblox](https://corporate.roblox.com).
+- Contributed to over 360+ million users on [Roblox](https://corp.roblox.com).
 
 ## <img src="https://cdn3.emoji.gg/emojis/2417-1st-place.gif" alt="trophy gif" width="25" height="25"> Personal Achievements
 | Achievement | Where | Year |
 | :--- | :--- | :---: |
+| Intern at Thailand Post | <a href="https://www.thailandpost.co.th">Thailand Post</a> | **2023** |
 | Researcher| <a href="https://www.twitter.com/Roblox_RTC">@Roblox_RTC</a> | **2023** |
 | Silver Medal in a C++ Competition (Countrywide) | Thailand | **2023** |
-| Community Translator | <a href="https://corporate.roblox.com">Roblox</a> | **2022** |
+| Community Translator | <a href="https://corp.roblox.com">Roblox</a> | **2022** |
 | Translator for <a href="https://www.roblox.com/games/8267733039">**Specter II**</a> by Periodic Games | <a href="https://corporate.roblox.com">Roblox</a> | **2022** |
 | Play Tester | <a href="https://www.dubit.io">Dubit</a> | **2022** |
 | Silver Medal in a Typing Competition | Thailand | **2021** |
-| Advisor and <a href="https://www.discord.com/invite/metaverse">**Discord**</a> Moderator | <a href="https://www.mgl.co">Metaverse Gaming League (MGL)</a> | **2021** |
+| Advisor and <a href="https://discord.com/invite/metaverse">**Discord**</a> Moderator | <a href="https://www.mgl.co">Metaverse Gaming League (MGL)</a> | **2021** |
 | Translator for <a href="https://www.roblox.com/games/1547610457">**Free Draw**</a> by Reselim | <a href="https://corporate.roblox.com">Roblox</a> | **2021** |
-| Beta Program Member | <a href="https://corporate.roblox.com">Roblox</a> | **2021** |
+| Beta Program Member | <a href="https://corp.roblox.com">Roblox</a> | **2021** |
 
 ## <img src="https://cdn3.emoji.gg/emojis/1119-globe.png" alt="Globe Icon" width="25" height="25"> Languages and Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
   <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
@@ -62,20 +63,21 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
   <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/lua/lua-plain.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/L/luau-programming-language-logo-4E5D70055F-seeklogo.com.png" title="Luau" alt="Luau" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C# - CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++ - CPlusPlus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  -->  
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+  -->
 </div>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9656-stats.png" alt="Stats Icon" width="25" height="25"> My Statistics
@@ -84,11 +86,7 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafusaku&show_icons=true&layout=compact&theme=transparent&title_color=F8C8DC&text_color=F8C8DC&border_radius=25&locale)](https://msaku.pages.dev)
 
 ## <img src="https://i.ibb.co/z7ZD055/Roblox-Heart-Icons.png" alt="Heart Icons" width="30" height="25"> Contact Information
-[Discord](https://discord.com/users/346621552382443539)
-
-[Twitter](https://twitter.com/@mafusaku)
-
-[Guilded](https://guilded.gg/u/pastel)
+[X/Twitter](https://x.com/@mafusaku)
 
 <!--
 ## <img src="https://cdn3.emoji.gg/emojis/1516-foxwave.png" alt="Fox Wave Image" width="25" height="25"> Blog Posts
