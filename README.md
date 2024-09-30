@@ -39,6 +39,7 @@ I am a Programmer, Game Developer and Web Developer from Thailand.
 ## <img src="https://cdn3.emoji.gg/emojis/2417-1st-place.gif" alt="trophy gif" width="25" height="25"> Personal Achievements
 | Achievement | Where | Year |
 | :--- | :--- | :---: |
+| <a href="https://discord.com/invite/walmartdiscovered">Community Moderator</a> | <a href="https://www.roblox.com/walmart">Walmart Discovered</a> @ <a href="https://sawhorsela.com/about">Sawhorse Productions</a> | **2023** |
 | Intern at Thailand Post | <a href="https://www.thailandpost.co.th">Thailand Post</a> | **2023** |
 | Researcher| <a href="https://www.twitter.com/Roblox_RTC">@Roblox_RTC</a> | **2023** |
 | Silver Medal in a C++ Competition (Countrywide) | Thailand | **2023** |
