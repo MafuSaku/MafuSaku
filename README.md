@@ -29,14 +29,14 @@
     </tr>
     <tr>
         <td>
-            <a href="https://bsky.app/profile/msaku.bsky.social">
+            <a href="https://bsky.app/profile/scarlett.cue.cat">
                 <img src="https://img.shields.io/badge/Follow-black?label=@MafuSaku&style=for-the-badge&logo=bluesky&logoColor=white&labelColor=black" style="max-width: 100%;" alt="Black background with the text saying follow @msaku on the bluesky app">
             </a>
         </td>
     </tr>
     <tr>
       <td>
-        <a href="project">
+        <a href="https://github.com/mafusaku">
             <img src="https://img.shields.io/badge/GitHub-black?label=@MafuSaku&style=for-the-badge&logo=github&logoColor=white&labelColor=black" style="max-width: 100%;" alt="Black background with the text syaing xyz on GitHub">
         </a>
       </td>
@@ -60,18 +60,19 @@
 <p align="center"><img src="https://64.media.tumblr.com/3d3d30b6c0c6d2ee1de60fac5e84c5ee/tumblr_pq4djytolv1wylmu4o4_250.gifv" alt="Senko-San Smiling Gif"></p>
 
 ## <img src="https://cdn3.emoji.gg/emojis/2493-note-pen.gif" alt="note gif" width="25" height="25"> About Me
-I am a Programmer, Game Developer, and Web Developer from Thailand.
-- I'm a student in college.
-- I'm learning in the IT field. Which involves game development, web development, digital business, and UI/UX design.
+Jack of all trades. Based in Thailand.
+- I'm a game developer and programmer.
+- I do a bit of everything. Game dev, community management, translations, UI, etc.
+- I translate content from English to Thai.
 - Fluent in English and Thai.
 - I create experiences on Roblox.
 - I program stuff that sometimes work sometimes doesn't.
-- I taught myself different programming languages, applications, video editing, and more.
-- Contributed to over 440+ million users on [Roblox](https://corp.roblox.com).
+- I taught myself different programming languages, applications, and video editing amongst other things.
+- Contributed to over 550+ million users on [Roblox](https://about.roblox.com).
 
 I'm still learning and expanding my knowledge! I may forget things or write things improperly but that's part of the process, right?
 
-<div align="center" dir=auto>
+<!-- <div align="center" dir=auto>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code Icon" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ Icon" width="40" height="40">
   <img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg" title="Roblox Studio" alt="Roblox Studio Icon" width="40" height="40">
@@ -81,31 +82,39 @@ I'm still learning and expanding my knowledge! I may forget things or write thin
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5 Icon" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" title="CSS" alt="CSS Icon" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" title="Python" alt="Python Icon" width="40" height="40">
-</div>
+</div> -->
 
 ## <img src="https://cdn3.emoji.gg/emojis/2417-1st-place.gif" alt="trophy gif" width="25" height="25"> Personal Achievements
 | Achievement | Where | Year |
 | :--- | :--- | :---: |
+| Community Ambassador (Thailand) | [Roblox](https://about.roblox.com) | **2026** |
+| Attended all Creator Meetups (Thailand) | [Roblox](https://about.roblox.com) | **2025-2026** |
 | Golden Medal in a C++ Competition (Countrywide) | Thailand | **2025** |
-| A part of the <a href="https://www.facebook.com/robloxthailandcommunity">Roblox Thailand Community & Network</a> & Sriwisa Team | <a href="https://discord.com">Discord</a>, <a href="https://www.facebook.com">Facebook</a>, <a href="https://corp.roblox.com">Roblox</a> | **2024** |
-| <a href="https://discord.com/invite/walmartdiscovered">Community Moderator</a> | <a href="https://www.roblox.com/walmart">Walmart Discovered</a> @ <a href="https://sawhorsela.com/about">Sawhorse Productions</a> | **2024** |
-| Intern at Thailand Post | <a href="https://www.thailandpost.co.th">Thailand Post</a> | **2023** |
-| Lead Researcher| <a href="https://www.x.com/Roblox_RTC">@Roblox_RTC</a> | **2023** |
+| Co-Founded of [Roblox Thailand Community & Network](https://www.robloxthailand.com) & part of [Sriwisa Team](https://sriwisa.com) | [Discord](https://discord.com), [Facebook](https://www.facebook.com), [Roblox](https://about.roblox.com) | **2024** |
+| [Community Moderator](https://discord.com/invite/walmartdiscovered) | [Walmart Discovered](https://www.roblox.com/walmart) @ [Sawhorse Productions](https://sawhorsela.com/about) | **2024** |
+| Intern at Thailand Post | [Thailand Post](https://www.thailandpost.co.th) | **2023** |
+| Lead Researcher| [@Roblox_RTC](https://x.com/Roblox_RTC) | **2023** |
 | Silver Medal in a C++ Competition (Countrywide) | Thailand | **2023** |
-| Community Translator | <a href="https://corp.roblox.com">Roblox</a> | **2022** |
-| Translator for <a href="https://www.roblox.com/games/8267733039">**Specter II**</a> by Periodic Games | <a href="https://corp.roblox.com">Roblox</a> | **2022** |
-| Play Tester | <a href="https://www.dubit.io">Dubit</a> | **2022** |
+| Community Translator | [Roblox](https://about.roblox.com) | **2022** |
+| Translator for **[Specter II](https://www.roblox.com/games/8267733039)**</a> by Periodic Games | [Roblox](https://about.roblox.com) | **2022** |
+| Play Tester | [Dubit](https://dubit.io) | **2022** |
 | Silver Medal in a Typing Competition | Thailand | **2021** |
-| Advisor and <a href="https://discord.com/invite/metaverse">**Discord**</a> Moderator | <a href="https://www.mgl.co">Metaverse Gaming League (MGL)</a> | **2021** |
-| Translator for <a href="https://www.roblox.com/games/1547610457">**Free Draw**</a> by Reselim | <a href="https://corp.roblox.com">Roblox</a> | **2021** |
-| Beta Program Member | <a href="https://corp.roblox.com">Roblox</a> | **2021** |
+| Advisor and **[Discord](https://discord.com/invite/metaverse)** Moderator | [Metaverse Gaming League (MGL)](https://mgl.co) | **2021** |
+| Translator for **[Free Draw](https://www.roblox.com/games/1547610457)** by Reselim | [Roblox](https://about.roblox.com) | **2021** |
+| Beta Program Member | [Roblox](https://about.roblox.com) | **2021** |
 
-## <img src="https://cdn3.emoji.gg/emojis/9656-stats.png" alt="Stats Icon" width="25" height="25"> My Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mafusaku&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=FFFFFF&stroke=F8C8DC&ring=F8C8DC&fire=F8C8DC&currStreakNum=F8C8DC&sideNums=F8C8DC&currStreakLabel=F8C8DC&sideLabels=F8C8DC&dates=F8C8DC)](https://msaku.pages.dev)
-<br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafusaku&show_icons=true&layout=compact&theme=transparent&title_color=F8C8DC&text_color=F8C8DC&border_radius=25&locale)](https://msaku.pages.dev)
-<br>
-[![Stats](https://github-readme-stats.vercel.app/api?username=mafusaku&show_icons=true&bg_color=00000000&text_color=FFFFFF&hide_border=true&icon_color=6932a8&title_color=6932a8)](https://msaku.pages.dev)
+### Contact
+You can contact me through my various emails depending on your inquiry!
+
+[hello@cue.cat](mailto:hello@cue.cat) for general inquiries.
+
+[business@cue.cat](mailto:business@cue.cat) for business related inquiries.
+
+[research@cue.cat](mailto:research@cue.cat) for research, findings, reporting related inquiries such as news or content for [Roblox RTC](https://robloxrt.com) amongst other things.
+
+[media@cue.cat](mailto:media@cue.cat) for media inquiries.
+
+Do note that response time may vary depending on time, dates, and events.
 
 <!--
 ## <img src="https://cdn3.emoji.gg/emojis/1516-foxwave.png" alt="Fox Wave Image" width="25" height="25"> Blog Posts
