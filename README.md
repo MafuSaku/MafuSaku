@@ -88,9 +88,10 @@ I'm still learning and expanding my knowledge! I may forget things or write thin
 | Achievement | Where | Year |
 | :--- | :--- | :---: |
 | Community Ambassador (Thailand) | [Roblox](https://about.roblox.com) | **2026** |
-| Attended all Creator Meetups (Thailand) | [Roblox](https://about.roblox.com) | **2025-2026** |
+| Attended a creator meetup (Thailand) | [Roblox](https://about.roblox.com) | **2026** |
+| Attended both creator meetups and was a community volunteer to help out one (Thailand) | [Roblox](https://about.roblox.com) | **2025** |
 | Golden Medal in a C++ Competition (Countrywide) | Thailand | **2025** |
-| Co-Founded of [Roblox Thailand Community & Network](https://www.robloxthailand.com) & part of [Sriwisa Team](https://sriwisa.com) | [Discord](https://discord.com), [Facebook](https://www.facebook.com), [Roblox](https://about.roblox.com) | **2024** |
+| Co-Founded [Roblox Thailand Community & Network](https://www.robloxthailand.com) & part of [Sriwisa Team](https://sriwisa.com) | [Discord](https://discord.com), [Facebook](https://www.facebook.com), [Roblox](https://about.roblox.com) | **2024** |
 | [Community Moderator](https://discord.com/invite/walmartdiscovered) | [Walmart Discovered](https://www.roblox.com/walmart) @ [Sawhorse Productions](https://sawhorsela.com/about) | **2024** |
 | Intern at Thailand Post | [Thailand Post](https://www.thailandpost.co.th) | **2023** |
 | Lead Researcher| [@Roblox_RTC](https://x.com/Roblox_RTC) | **2023** |
